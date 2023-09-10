@@ -1,6 +1,6 @@
 # Netflix-Clone
 You can see my work here 
-https://anubhavsingh16.github.io/Netflix-Clone/ 
+https://clone-netflix-frontend.netlify.app/
 
 As of now i have made Front-end of netflix, whch contains two pages- 
 * Landing Page
